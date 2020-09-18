@@ -1,9 +1,10 @@
 Tren Teknologi Informasi pada 5 tahun kedepan akan menjadi suatu hal yang ditunggu, salah satunya ada pada bidang kesehatan yang nantinya akan bisa membantu meningkatkan kualitas hidup seseorang agar bisa menjadi lebih baik lagi kedepannya. Kemudian ada pula di bidang Sumber daya yang melakukan pekerjaannya sendiri tanpa menggunakan baterai atau sumber daya apapun. Disisi otomotif ada juga penggunaan mobil yang bisa melakukan melakukan parkir sendiri, dan ada juga disini
 
 # Tren pada bidang Kesehatan (Irfan Achmad Firmansyah – 1303170029)
-https://www.youtube.com/watch?v=72vumTWeqe0&t
+[Link Video](https://www.youtube.com/watch?v=72vumTWeqe0&t)
+
 Pada video diatas menjelaskan mengenai apa yang akan bisa dilakukan oleh teknologi pendukung seperti Internet of Things dalam dunia kesehatan ini, banyaknya teknologi yang akan datang ini bisa membantu seseorang untuk bisa menjadi lebih baik lagi kedepannya. Salah satu teknologi yang muncul ialah seperti terapi untuk menghilangkan phobia, jenis wearable kedepannya, serta hal hal lainnya yang dapat membantu.
- 
+ ![GitHub Logo](/images/logo.png)
 Sumber : insightscare.com 
 Tren Internet of Things yang akan muncul 5 tahun kedepan, salah satunya adalah teknologi yang bisa membantu orang untuk menghilangkan atau mengurangi tingkat phobia dan memberikan terapi kepada seseorang yang takut dengan laba laba atau takut ketinggian, dengan bantuan alat seperti Virtual Reality hal tersebut bisa dimanipulasi dan mambantu orang tersebut.
 Tren Internet of Things lainnya ialah munculnya wearable lainnya, mulai dari baju, headband, strap, sepatu, bahkan kaos kaki yang bisa membatu mengukur tingkat kesehatan seseorang dengan cara melakukan monitoring secara real time seperti tekanan darah, kalori, motion capture, ataupun temperatur agar bisa menjadi lebih baik lagi. 
